@@ -89,6 +89,7 @@ public class MainActivity extends AppCompatActivity {
 
                         }
                         mAdapter.loadData(myModelArrayList);
+                        //Add comment to share with gitHub
                     }
 
                 }
